@@ -9,7 +9,7 @@ INSTRUCTIONS:
 ◘ Press 'r' to restart
 ◘ use clicking/draging and the scroll wheel to move around graph
 
-• Changing the "sample size" variable (which controls the max number of points being calculated to find pi) can change how the graph looks 10 vs. 1000
+• Changing the "sample size" variable (which controls the max number of points being calculated to find pi) can change how the graph looks (10 vs. 1000)
 • Increasing the "speed" variable makes the circle and points visualization more fun to watch 
 
 The ratio of a inscribed circle and a square is pi/4 => (pi*r^2 / 4*r^2)
