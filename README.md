@@ -1,6 +1,8 @@
 # approximating-pi-visual-and-graph-representation
 Java project that tries to approximate the value of pi with probability.
 
+Files included are the .java files, processing graphics library and font (open project in IDE)
+
 INSTRUCTIONS:
 
 ◘ Press '1' and '2' to switch between circle/points and graph representation
