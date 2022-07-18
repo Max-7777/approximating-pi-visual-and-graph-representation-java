@@ -12,5 +12,5 @@ INSTRUCTIONS:
 • Changing the "sample size" variable (which controls the max number of points being calculated to find pi) can change how the graph looks (10 vs. 1000)
 • Increasing the "speed" variable makes the circle and points visualization more fun to watch 
 
-The ratio of a inscribed circle and a square is pi/4 => (pi*r^2 / 4*r^2)
+The ratio of an inscribed circle and a square is pi/4 => (pi*r^2 / 4*r^2)
 The probability of a dot to land in the circle compared to the total number of dots in the square * 4 can approach pi if enough dots are calculated
